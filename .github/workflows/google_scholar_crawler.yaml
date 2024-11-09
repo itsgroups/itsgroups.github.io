@@ -4,7 +4,6 @@ on:
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
-  - immediate: true
 
 jobs:
   build:
