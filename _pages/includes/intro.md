@@ -35,13 +35,13 @@ His research is primarily focused on several cutting-edge areas, including:
 		<td>
 			Contact Information: <br> 
 			Office Address: <br>     
-			Room 810, Building 3, YESUN Intelligent Community II, <br>
-			Guanlan Street, Longhua District, <br>
-			Shenzhen 518110, China <br>     
-			Phone: 
-			<a href="tel:+1-6015648240" class="no-underline">click to call</a> <br>   
+			Room 9439, Building 9, XiPu Campus, <br>
+			Xi'an Road No.999, Pidu District, <br>
+			Chengdu 611756, China <br>     
+			<!-- Phone: 
+			<a href="tel:+1-6015648240" class="no-underline">click to call</a> <br>   --> 
 			E-mail:   
-			<em>xc</em>DOT<em>xu</em>AT<em>uestc</em>DOT<em>edu</em>DOT<em>cn</em> | <em>neard</em>DOT<em>ws</em>AT<em>gmail</em>DOT<em>com</em> 
+			<em>penglindai</em>AT<em>swjtu</em>DOT<em>edu</em>DOT<em>cn</em> 
 		</td>
 		<td>
 			<iframe width="450" height="220" src="https://www.openstreetmap.org/export/embed.html?bbox=114.02656316757204%2C22.723049810086813%2C114.05134677886964%2C22.735963602484535&amp;layer=mapnik" style="border: 0"></iframe>
