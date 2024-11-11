@@ -27,8 +27,8 @@ His research is primarily focused on several cutting-edge areas, including:
 - Vehicular Networks, with a focus on cooperative transmission and computing, integrated sensing and communications, and resource allocation.
 - Vehicular Cyber-Physical Systems, encompassing sensing, transmitting, modeling, and controlling.
 - Edge Computing, emphasizing the offloading of communication, computing, and caching abilities from the cloud to the network edge.
-- Deep Reinforcement Learning, including multi-agent DRL, hierarchical DRL, and the integration of DRL with other technologies such as game theory and evaluation algorithms.
-- Game Theory, with a specific interest in potential games, matching, auctions, and related concepts.
+<!-- - Deep Reinforcement Learning, including multi-agent DRL, hierarchical DRL, and the integration of DRL with other technologies such as game theory and evaluation algorithms.
+- Game Theory, with a specific interest in potential games, matching, auctions, and related concepts. -->
 
 <table class="no-horizontal-lines" style="margin-left: auto; margin-right: auto;">
 	<tr>

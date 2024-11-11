@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Penglin Dai"
 description              : "Research Interests: IoVs, VEC, VCPS, DRL, etc."
-repository               : "neardws/neardws.github.io"
+repository               : "itsgroup/itsgroup.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Penglin Dai"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Postdoctoral Research Fellow in CS @ UESTC"
-  location         : "Shenzhen, China"
+  bio              : "Associate Professor in CS @ SWJTU"
+  location         : "Chengdu, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DK5avZUAAAAJ"
