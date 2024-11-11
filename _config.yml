@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Penglin Dai"
-description              : "Research Interests: IoVs, VEC, VCPS, DRL, etc."
+description              : "Research Interests: IoVs, EdgeAI, Autonomous driving etc."
 repository               : "itsgroup/itsgroup.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,9 +27,9 @@ author:
   location         : "Chengdu, China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=DK5avZUAAAAJ"
-  email            : "xc.xu@uestc.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Xincao-Xu"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=xtXbq_AAAAAJ"
+  email            : "penglindai@swjtu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Penglin-Dai"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "neardws"
+  # github           : "neardws"
   google_plus      :
   keybase          :
-  instagram        : "near.d.ws"
+  # instagram        : "near.d.ws"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xuxincao"
-  dblp             : "https://dblp.org/pid/245/5645.html"
-  orcid            : "https://orcid.org/0000-0001-5057-5468"
+  linkedin         : "daipenglin"
+  dblp             : "https://dblp.org/pid/159/6594.html"
+  orcid            : "https://orcid.org/0000-0002-3074-4620"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "neard_ws"
+  # twitter          : "neard_ws"
   vine             :
   weibo            :
   xing             :
