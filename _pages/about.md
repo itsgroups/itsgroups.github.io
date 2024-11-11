@@ -25,4 +25,4 @@ redirect_from:
 
 {% include_relative includes/resources.md %}
 
-{% include_relative includes/interests.md %}
+<!-- {% include_relative includes/interests.md %} -->
