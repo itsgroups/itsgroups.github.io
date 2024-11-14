@@ -6,7 +6,7 @@
 - **July 2024 - Aug 2024**: Research Associate, Department of Computer Science, City University of HongKong. In collaboration with Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=bow_liAAAAAJ" class="no-underline">Jianping Wang</a>.
 <!-- - **Jul 2017 - Jun 2021 (now)**: Postdoctoral Research Fellow, Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China, Shenzhen, China. 
  -->
- - **July 2021 - Aug 2021**: Research Fellow, Department of Computer Science, City University of HongKong. In collaboration with Prof. <a href="https://scholar.google.com/citations?user=6YkCbT8AAAAJ" class="no-underline">Victor C.S. Lee</a>.
+ - **July 2021 - Aug 2021**: Research Fellow, Department of Computer Science, City University of HongKong. In collaboration with Prof. <a href="https://www.eee.hku.hk/people/csvlee/" class="no-underline">Victor C.S. Lee</a>.
  - **Jul 2017 - Dec 2021**: Lecturer/Master's Supervisor, School of Information Science and Technology, Southwest Jiaotong University.
 
 
