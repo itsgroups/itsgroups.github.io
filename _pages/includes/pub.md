@@ -47,5 +47,6 @@ To be updated
 #### Dissertation
 
 - **Penglin Dai**, Research on Key Techniques for Information Service Strategy and Network Resource Optimization in Large-scale Heterogeneous Vehicular Networks, Chongqing University, Doctoral Dissertation, June 2023. 
-- <!-- 
+
+<!-- 
 - [![](https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080)](https://neardws-1257861591.cos.ap-shanghai.myqcloud.com/neardws/bib/xu2023research.bib) [![](https://img.shields.io/badge/-PDF-blue?logo=adobeacrobatreader&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat)](https://neardws-1257861591.cos.ap-shanghai.myqcloud.com/neardws/My-Doctoral-Dissertation-Defense.pdf) [![](https://img.shields.io/github/stars/neardws/My-Doctoral-Dissertation?style=social)](https://github.com/neardws/My-Doctoral-Dissertation)  -->
