@@ -2,22 +2,29 @@
 
 ## 💼 Work
 
-- **Jul 2023 - Jun 2025 (now)**: Postdoctoral Research Fellow, Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China, Shenzhen, China. In cooperation with Prof. <a href="https://scholar.google.com/citations?user=IhjhNEEAAAAJ" class="no-underline">Shaohua Wan</a>.
+- **Jan 2022 - now**: Associate Professor/PhD Supervisor, School of Computing and Artificial Intelligence, Southwest Jiaotong University.
+- **July 2024 - Aug 2024**: Research Associate, Department of Computer Science, City University of HongKong. In collaboration with Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=bow_liAAAAAJ" class="no-underline">Jianping Wang</a>.
+<!-- - **Jul 2017 - Jun 2021 (now)**: Postdoctoral Research Fellow, Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China, Shenzhen, China. 
+ -->
+ - **July 2021 - Aug 2021**: Research Fellow, Department of Computer Science, City University of HongKong. In collaboration with Prof. <a href="https://scholar.google.com/citations?user=6YkCbT8AAAAJ" class="no-underline">Victor C.S. Lee</a>.
+ - **Jul 2017 - Dec 2021**: Lecturer/Master's Supervisor, School of Information Science and Technology, Southwest Jiaotong University.
+
 
 ## 🎓 Education
 
-- **Sep 2019 - Jun 2023**: Ph.D. in Computer Science, College of Computer Science, Chongqing University, Chongqing, China. Supervised by Prof. <a href="https://scholar.google.com/citations?user=6YkCbT8AAAAJ" class="no-underline">Kai Liu</a> and Prof. <a href="https://scholar.google.com/citations?user=6YkCbT8AAAAJ" class="no-underline">Qingfeng Zhuge</a>.
-- **Sep 2017 - Jun 2019**: Postgraduate student (Joined the successive postgraduate-doctor program in 2019), Computer Science, College of Computer Science, Chongqing University, Chongqing, China.
-- **Sep 2013 - Jun 2017**: Bachelor in Network Engineering, College of Computer and Control Engineering, North University of China, Taiyuan, China.
+- **Sep 2012 - Jun 2017**: Ph.D. in Computer Science, College of Computer Science, Chongqing University, Chongqing, China. Supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=6YkCbT8AAAAJ&hl" class="no-underline">Kai Liu</a>.
+<!-- - **Sep 2012 - Jun 2019**: Postgraduate student (Joined the successive postgraduate-doctor program in 2019), Computer Science, College of Computer Science, Chongqing University, Chongqing, China. --> 
+<!-- and Prof. <a href="https://scholar.google.com/citations?user=6YkCbT8AAAAJ" class="no-underline">Qingfeng Zhuge</a> -->
+- **Sep 2008 - Jun 2012**: Bachelor in Mathematics and Applied Mathematics, College of Mathematics, Chongqing University, Chongqing, China.
 
-## 😎 Membership
+<!-- ## 😎 Membership
 
 - **Sep 2023 - now**: Member #G0818M, China Computer Federation (CCF).
 - **Oct 2023 - now**: Member #3120145, Association for Computing Machinery (ACM).
 - **Sep 2023 - now**: Member #99619216, Institute of Electrical and Electronics Engineers (IEEE).
-- **Nov 2020 - Aug 2023**: Student Member #G0818G, China Computer Federation (CCF).
+- **Nov 2020 - Aug 2023**: Student Member #G0818G, China Computer Federation (CCF). -->
 
-## 👀 Reviewer
+<!-- ## 👀 Reviewer
 
 #### Journal
 
@@ -39,4 +46,4 @@
 - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP'21)
 - China Conference on Internet of Things (Wireless Sensor Network) (CWSN'21)
 - IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom'20)
-- IEEE International Symposium on Product Compliance Engineering-Asia (ISPCE-CN'20)
+- IEEE International Symposium on Product Compliance Engineering-Asia (ISPCE-CN'20) -->
