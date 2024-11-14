@@ -1,15 +1,17 @@
 # 🏆 Grants
 
 <img src="images/grants_nsfc.webp" alt="NSFC"> **NSFC**: <a href="https://www.nsfc.gov.cn" class="no-underline">National Natural Science Foundation of China</a>  
-<img src="images/grants_gd.webp" alt="GBABRF"> **GBABRF**: <a href="https://pro.gdstc.gd.gov.cn/egrantweb/" class="no-underline">Guangdong Basic and Applied Basic Research Foundation</a>     
+<!-- <img src="images/grants_gd.webp" alt="GBABRF"> **GBABRF**: <a href="https://pro.gdstc.gd.gov.cn/egrantweb/" class="no-underline">Guangdong Basic and Applied Basic Research Foundation</a>   -->   
 <img src="images/grants_cpsf.webp" alt="CSPF"> **CPSF**: <a href="https://www.chinapostdoctor.org.cn/bshjjh" class="no-underline">China Postdoctoral Science Foundation</a>
 
 #### Principal Investigator
 
 1. <img src="images/grants_nsfc.webp" alt="NSFC"> **NSFC**, General Project, "Research on distributed task processing mechanism in end-edge-cloud orchestrated Internet of Vehicles based on deep reinforcement learning", 62172342, 590,000 CNY, Jan 2022 - Dec 2025.
 2. <img src="images/grants_nsfc.webp" alt="NSFC"> **NSFC**, General Project, "Research on Key Techniques for Real-time Data Scheduling and Dynamic Resource Optimization in Vehicle Networks", 61802319, 260,000 CNY, Jan 2019 - Dec 2021.
-3. <img src="images/grants_cpsf.webp" alt="CSPF"> **CSPF**, General Fund, "Research on real-time data transmission and processing mechanism of Internet of vehicles based on edge intelligence", 2019M660245, 180,000 CNY, Jul 2020 - Jul 2022.
-4. <img src="images/grants_cpsf.webp" alt="CSPF"> **CSPF**, Special Funding, "Research on efficient data service strategy of Internet of vehicles based on edge computing architecture", 2020T130547, 120,000 CNY, Jan 2020 - May 2022.
+3. **Natural Science Foundation of Hebei Province**, F2022105003, Research on Key Techniques for Self-Adaptation of Edge Caching and Computation Model in Vehicular Networks, 200,000 CNY, Jan 2022 - Dec 2024.
+4. **Sichuan Science and Technology Program**, 2020YJ0272, Research on Key Technologies for data dissemination in mobile computing based on heterogeneous network integration, 100,000 CNY, Jan 2020 - Dec 2022.
+5. <img src="images/grants_cpsf.webp" alt="CSPF"> **CSPF**, Special Funding, "Research on real-time data transmission and processing mechanism of Internet of vehicles based on edge intelligence", 2020T130547, 180,000 CNY, Jul 2020 - Jul 2022.
+6. <img src="images/grants_cpsf.webp" alt="CSPF"> **CSPF**, General Fund, "Research on efficient data service strategy of Internet of vehicles based on edge computing architecture", 2019M660245, 120,000 CNY, Jan 2020 - May 2022.
 
 
 <!-- #### Participation
