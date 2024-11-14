@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Penglin Dai"
   avatar           : "images/profile.jpg"
-  bio              : "Associate Professor in CS @ SWJTU"
+  bio              : "Associate Professor\\ in CS @ SWJTU"
   location         : "Chengdu, China"
   employer         : 
   pubmed           : 
