@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Penglin Dai"
   avatar           : "images/profile.jpg"
-  bio              : "Associate Professor"
-  employer         : "Southwest Jiaotong University"
+  bio              : "Associate Professor @SWJTU"
+  employer         : 
   location         : "Chengdu, China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=xtXbq_AAAAAJ"
