@@ -1,6 +1,6 @@
 # 🔥 News
 
-### December 2023
+<!-- ### December 2023
 - **Grant Award** 💰: Delighted to announce my selection for the 2023 National Postdoctoral Research Fellowship Program (Tier C). Celebrating this momentous occasion! 🌟🎉
 
 ### November 2023
@@ -22,3 +22,4 @@
 
 ### June 2022
 - **Conference Acceptance** : Excited to have a conference paper titled "Age of View: A New Metric for Evaluating Heterogeneous Information Fusion in Vehicular Cyber-Physical Systems" accepted at the 2022 IEEE International Conference on Intelligent Transportation Systems (*ITSC*). 
+ -->

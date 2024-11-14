@@ -24,9 +24,9 @@ author:
   name             : "Penglin Dai"
   avatar           : "images/profile.jpg"
   bio              : "Associate Professor @SWJTU"
-  employer         : 
   location         : "Chengdu, China"
-  pubmed           : 
+  # pubmed           : 
+  # employer         : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=xtXbq_AAAAAJ"
   email            : "penglindai@swjtu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Penglin-Dai"
