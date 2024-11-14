@@ -15,7 +15,8 @@
 - **Sep 2012 - Jun 2017**: Ph.D. in Computer Science, College of Computer Science, Chongqing University, Chongqing, China. Supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=6YkCbT8AAAAJ&hl" class="no-underline">Kai Liu</a>.
 <!-- - **Sep 2012 - Jun 2019**: Postgraduate student (Joined the successive postgraduate-doctor program in 2019), Computer Science, College of Computer Science, Chongqing University, Chongqing, China. --> 
 <!-- and Prof. <a href="https://scholar.google.com/citations?user=6YkCbT8AAAAJ" class="no-underline">Qingfeng Zhuge</a> -->
-- **Sep 2008 - Jun 2012**: Bachelor in Mathematics and Applied Mathematics, College of Mathematics, Chongqing University, Chongqing, China.
+- **Sep 2008 - Jun 2012**: Bachelor in Mathematics and Applied Mathematics, Hong Shen Honors School, College of Mathematics and Statistics, Chongqing University, Chongqing, China.
+
 
 <!-- ## 😎 Membership
 
