@@ -43,7 +43,9 @@ His research interests are primarily focused on several cutting-edge areas, incl
 			<!-- Phone: 
 			<a href="tel:+1-6015648240" class="no-underline">click to call</a> <br>   --> 
 			E-mail:   
-			<em>penglindai</em>AT<em>swjtu</em>DOT<em>edu</em>DOT<em>cn</em> 
+			<em>penglindai@swjtu.edu.cn</em>
+			<!-- <em>penglindai</em>AT<em>swjtu</em>DOT<em>edu</em>DOT<em>cn</em>  -->
+
 		</td>
 		<td>
 			<iframe width="450" height="220" src="https://www.openstreetmap.org/export/embed.html?bbox=114.02656316757204%2C22.723049810086813%2C114.05134677886964%2C22.735963602484535&amp;layer=mapnik" style="border: 0"></iframe>
