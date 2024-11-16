@@ -25,7 +25,7 @@ Penglin Dai (Chinese character 戴朋林) received his Ph.D. degree in Computer 
 His research interests are primarily focused on several cutting-edge areas, including:
 - Edge Artificial Intelligence (Edge AI), emphasizing AI Model Optimization for Edge Devices,  Collaborative AI in Edge Networks, etc. 
 - Autonomous  Driving, covering topics like V2X-based Cooperative Perception, Multi-Sensor Fusion for Autonomous Vehicles, and Simulation and Testing of Autonomous Vehicles.
-- Internet of Vehicles (IoVs), with a focus on Vehicular Communication Networks, Edge Computing for V2X Networks, Vehicular Crowdsensing, etc.
+- Internet of Vehicles (IoVs), with a focus on Vehicular Communication Networks, Video Streaming in IoVs, Edge Computing for V2X Networks, Vehicular Crowdsensing, etc.
 
 <!-- - Vehicular Cyber-Physical Systems, encompassing sensing, transmitting, modeling, and controlling. -->
 
