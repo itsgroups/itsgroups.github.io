@@ -15,17 +15,17 @@ main:
   - title: "Grants"
     url: "/#-grants"
 
-  - title: "Others"
-    url: "/#-others"
+  # - title: "Others"
+  #   url: "/#-others"
 
   - title: "Experience"
     url: "/#-experience"
 
-  - title: "Resources"
-    url: "/#-resources"
+  # - title: "Resources"
+  #   url: "/#-resources"
 
-  - title: "Interests"
-    url: "/#-interests"
+  # - title: "Interests"
+  #   url: "/#-interests"
 
   - title: "CV"
     url: "https://neardws-1257861591.cos.ap-shanghai.myqcloud.com/neardws/cv.pdf"
