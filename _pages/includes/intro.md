@@ -22,10 +22,10 @@ table.no-horizontal-lines th {
 </style>
 Penglin Dai (Chinese character 戴朋林) received his Ph.D. degree in Computer Science from the College of Computer Science at Chongqing University (<a href="https://www.cqu.edu.cn" class="no-underline">CQU</a>), Chongqing, China, in 2017. He previously earned his B.S. degree in Mathematics and Applied Mathematics Chongqing University (<a href="https://www.cqu.edu.cn" class="no-underline">CQU</a>), Chongqing, China, in 2012. Dr. Dai is currently a Associate Professor at the School of Computing and Artificial Intelligence, Southwest Jiaotong University (<a href="https://www.swjtu.edu.cn/" class="no-underline">SWJTU</a>), in Chengdu. He has authored and co-authored more than 60 papers with total google scholar <a href='https://scholar.google.com/citations?user=xtXbq_AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fitsgroups%2Fitsgroups.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> at the top international conferences and journals such as INFOCOM, TMC, TSC, TITS, TSMC.
        
-His research is primarily focused on several cutting-edge areas, including:
-- Edge Artificial Intelligence (Edge AI), emphasizing the offloading of communication, computing, and caching abilities from the cloud to the network edge. 
-- Autonomous  Driving, covering aspects like heterogeneous information fusion, cooperative sensing, multi-modal deep learning, and driving behavior control.
-- Internet of Vehicles, with a focus on cooperative transmission and computing, integrated sensing and communications, and resource allocation.
+His research interests are primarily focused on several cutting-edge areas, including:
+- Edge Artificial Intelligence (Edge AI), emphasizing AI Model Optimization for Edge Devices,  Collaborative AI in Edge Networks, etc. 
+- Autonomous  Driving, covering topics like V2X-based Cooperative Perception, Multi-Sensor Fusion for Autonomous Vehicles, and Simulation and Testing of Autonomous Vehicles.
+- Internet of Vehicles (IoVs), with a focus on Vehicular Communication Networks, Edge Computing for V2X Networks, Vehicular Crowdsourcing, etc.
 
 <!-- - Vehicular Cyber-Physical Systems, encompassing sensing, transmitting, modeling, and controlling. -->
 
