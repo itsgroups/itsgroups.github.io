@@ -48,7 +48,7 @@ His research interests are primarily focused on several cutting-edge areas, incl
 
 		</td>
 		<td>
-			<iframe width="450" height="220" src="https://www.openstreetmap.org/export/embed.html?bbox=114.02656316757204%2C22.723049810086813%2C114.05134677886964%2C22.735963602484535&amp;layer=mapnik" style="border: 0"></iframe>
+			<iframe width="450" height="220" src="https://www.openstreetmap.org/export/embed.html?bbox=103.97154%2C30.75698%2C104.00523%2C30.77381&amp;layer=mapnik" style="border: 0"></iframe>
 		</td>
 	</tr>
 </table>
