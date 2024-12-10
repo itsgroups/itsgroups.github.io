@@ -1,6 +1,9 @@
 # 🔥 News
 
+- One of our papers has been accepted to AAAI 2025. Congratulations to Quanmin Wei!
+
 <!-- ### December 2023
+
 - **Grant Award** 💰: Delighted to announce my selection for the 2023 National Postdoctoral Research Fellowship Program (Tier C). Celebrating this momentous occasion! 🌟🎉
 
 ### November 2023
