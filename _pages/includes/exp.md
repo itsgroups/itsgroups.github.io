@@ -21,7 +21,16 @@
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Za8K4LovkkIiPQYim0sS3KGikoZJj1XVw-J9ySqprXA&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Za8K4LovkkIiPQYim0sS3KGikoZJj1XVw-J9ySqprXA&cl=ffffff&w=a"></script> -->
+<script type="text/javascript" id="clustrmaps" 
+  src="//clustrmaps.com/map_v2.js?d=Za8K4LovkkIiPQYim0sS3KGikoZJj1XVw-J9ySqprXA&cl=ffffff&w=a"></script>
+
+<style>
+  #clustrmaps-container {
+    width: 200px;
+    height: 150px;
+  }
+</style>
 
 
 <!-- ## 😎 Membership
