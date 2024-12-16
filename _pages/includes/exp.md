@@ -27,8 +27,8 @@
 
 <style>
   #clustrmaps-container {
-    width: 200px;
-    height: 150px;
+    width: 100px;
+    height: 75px;
   }
 </style>
 
