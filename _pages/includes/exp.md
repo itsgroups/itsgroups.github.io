@@ -20,8 +20,8 @@
 
 
 
-<iframe src="//clustrmaps.com/map_v2.js?d=Za8K4LovkkIiPQYim0sS3KGikoZJj1XVw-J9ySqprXA&cl=ffffff&w=a" 
-  width="200" height="150" frameborder="0" style="border: none;"></iframe>
+<!-- <iframe src="//clustrmaps.com/map_v2.js?d=Za8K4LovkkIiPQYim0sS3KGikoZJj1XVw-J9ySqprXA&cl=ffffff&w=a" 
+  width="200" height="150" frameborder="0" style="border: none;"></iframe> -->
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Za8K4LovkkIiPQYim0sS3KGikoZJj1XVw-J9ySqprXA&cl=ffffff&w=a"></script> -->
 <!-- <script type="text/javascript" id="clustrmaps" 
