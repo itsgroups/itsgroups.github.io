@@ -1,7 +1,7 @@
 # 🔥 News
+
 ### December 2024
 - Congratulations to Prof. Penglin Dai for being included in the 2024 Top 2% Scientists list published by Stanford University and Elsevier.
-### December 2024
 - One of our papers has been accepted to AAAI 2025. Congratulations to Quanmin Wei!
 
 <!-- ### December 2023
