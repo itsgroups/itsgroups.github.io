@@ -1,5 +1,6 @@
 # 🔥 News
-
+### March 2025
+- One of our papers has been accepted to IEEE Transactions on Consumer Electronics. Congratulations to Junfei Zhou and Jialong Ma!
 ### December 2024
 - Great news! I have been included in the 2024 Top 2% Scientists list published by Stanford University and Elsevier!
 - One of our papers has been accepted to AAAI 2025. Congratulations to Quanmin Wei!
