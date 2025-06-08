@@ -1,5 +1,10 @@
 # 🔥 News
 
+
+### June 2025
+- One of our papers has been accepted to IEEE Transactions on Services computing. Congratulations to Xin Wang and Yue Xiang!
+### April 2025
+- One of our papers has been accepted to IEEE Transactions on Network Science and Engineering. 
 ### March 2025
 - One of our papers has been accepted to IEEE Transactions on Consumer Electronics. Congratulations to Junfei Zhou and Jialong Ma!
 ### December 2024
