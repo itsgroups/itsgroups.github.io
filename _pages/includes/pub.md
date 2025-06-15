@@ -8,7 +8,7 @@
 <!-- #### Preprint -->
 ### Selected Publications (**\*** Corresponding Author)
 #### Journal
-1. **Penglin Dai**, Xin Wang, Yue Xiang, Xiao Wu<sup>**\***</sup>, Junhua Wang,  Kai LiuMulti-Agent Reinforcement Learning for Freshness-Aware
+1. **Penglin Dai**, Xin Wang, Yue Xiang, Xiao Wu<sup>**\***</sup>, Junhua Wang,  Kai Liu, Multi-Agent Reinforcement Learning for Freshness-Aware
 Data Sensing Model in Vehicular Crowdsensing Systems, IEEE Transactions on Services Computing (*TSC*), 2025, early access. [JCR Q1\|SCI Q2\|<font color="red">CCF A</font>]
 2. Kangli Zhao, **Penglin Dai**<sup>**\***</sup>, Huanlai Xing, Xiao Wu<sup>**\***</sup>, <a href="https://ieeexplore.ieee.org/document/10985845" class="no-underline">A Cooperative Kernel-Based Method for Task Offloading in Vehicular Edge Computing</a>, IEEE Transactions on Network Science and Engineering (*TNSE*), 2025, early access. [JCR Q1\|SCI Q2]
 3. **Penglin Dai**, Junfei Zhou, Jialong Ma, Hao Zhang<sup>**\***</sup>, Xiao Wu, <a href="https://ieeexplore.ieee.org/document/10934063" class="no-underline">Meta-Transfer Learning Based Cross-Domain Gesture Recognition Using WiFi Channel State Information</a>, IEEE Transactions on Consumer Electronics (*TCE*), 2025, early access. [JCR Q1\|SCI Q2]
