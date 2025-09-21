@@ -2,6 +2,8 @@
 
 ### Sep 2025
 - One of our papers has been accepted to NeurIPS 2025. Congratulations to Junfei Zhou!
+### Aug 2025
+- One of our papers has been accepted to IROS 2025. Congratulations to Yinghao Liu!
 ### June 2025
 - One of our papers has been accepted to IEEE Transactions on Services computing. Congratulations to Xin Wang and Yue Xiang!
 ### April 2025
