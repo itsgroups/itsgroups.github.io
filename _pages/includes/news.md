@@ -1,7 +1,11 @@
 # 🔥 News
 
+### Oct 2025
+
+- One of our papers has been accepted to IEEE Transactions on Intelligent Transportation Systems. Congratulations to Hao Zhou!
 
 ### Sep 2025
+
 - Great news! I have been included in the 2025 Top 2% Scientists list published by Stanford University and Elsevier!
 - One of our papers has been accepted to NeurIPS 2025. Congratulations to Junfei Zhou!
 ### Aug 2025
