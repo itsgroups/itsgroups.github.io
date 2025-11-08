@@ -1,4 +1,7 @@
 # 🔥 News
+### Nov 2025
+
+- One of our papers has been accepted to AAAI 2025. Congratulations to Quanmin Wei!
 
 ### Oct 2025
 
