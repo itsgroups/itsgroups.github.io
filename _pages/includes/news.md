@@ -1,4 +1,8 @@
 # 🔥 News
+### March 2026
+
+- One of our papers has been accepted to TMM 2026. Congratulations to Quanmin Wei!
+
 ### Nov 2025
 
 - One of our papers has been accepted to AAAI 2026. Congratulations to Quanmin Wei!
