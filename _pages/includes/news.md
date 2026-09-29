@@ -1,4 +1,9 @@
 # 🔥 News
+### Sep 2026
+
+- One of our papers has been accepted to TVT. Congratulations to Lixin Jin!
+- One of our papers has been accepted to TMC. Congratulations to Quanmin Wei!
+
 ### March 2026
 
 - One of our papers has been accepted to TMM. Congratulations to Quanmin Wei!
