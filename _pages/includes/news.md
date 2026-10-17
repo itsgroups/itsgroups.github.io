@@ -1,4 +1,12 @@
 # 🔥 News
+
+### Oct 2026
+
+- Great news! I have been included in the 2026 Top 2% Scientists list published by Stanford University and Elsevier!
+
+- Great news! A member of our research group has been awarded the 2026 National Scholarship for Doctoral Students! Congratulations to Wei Quanmin!
+
+
 ### Sep 2026
 
 - One of our papers has been accepted to TVT. Congratulations to Lixin Jin!
